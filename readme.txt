@@ -1,3 +1,7 @@
 git is a distribution version control system.
 add new line.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+creating a new branch is quick AND simple.
+>>>>>>> feature
