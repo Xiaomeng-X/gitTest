@@ -5,4 +5,9 @@ Creating a new branch is quick and simple.
 =======
 creating a new branch is quick AND simple.
 >>>>>>> feature
-creating another new branch is quick & simple.
+<<<<<<< HEAD
+creating another new branch is quick and simple.
+=======
+creating another new branch is quick AND simple.
+the second line.
+>>>>>>> feature1
